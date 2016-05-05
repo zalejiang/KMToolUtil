@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F744688F67F35DD7D2E91158820568B743DB4F31",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "bd0b64e0-b77d-114c-b280-ac4172d5aa58" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F744688F67F35DD7D2E91158820568B743DB4F31" : 0,
+    "bd0b64e0-b77d-114c-b280-ac4172d5aa58" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F9DEFF01-8CA0-4403-92D7-E212C5ED6012",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F744688F67F35DD7D2E91158820568B743DB4F31" : "KMToolUtil\/",
+    "bd0b64e0-b77d-114c-b280-ac4172d5aa58" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "kmtoolutilDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "kmtoolutilDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zalejiang\/KMToolUtil.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F744688F67F35DD7D2E91158820568B743DB4F31"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.102\/svn\/kumo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "bd0b64e0-b77d-114c-b280-ac4172d5aa58"
+    }
+  ]
+}
